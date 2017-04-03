@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Victor Kazakov](https://up.htmlacademy.ru/adaptive/10/user/12267).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
